@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'Pierre Felgines'
   s.social_media_url = 'http://twitter.com/PierreFelgines'
-  s.source           = { :git => 'https://github.com/felginep/AttributedStringStyle.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/felginep/AttributedStringStyle.git', :tag => "v#{s.version}" }
   s.ios.deployment_target = '9.0'
   s.source_files = 'Source/**/*'
   s.framework    = 'Foundation'
