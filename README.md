@@ -48,6 +48,10 @@ builder.addStyle(.highlighted, range: range)
 let semanticAttributedString = builder.build()
 ```
 
+The attributed string has no visual attributes but semantics ones.
+
+![Simple String Semantics](https://raw.githubusercontent.com/felginep/AttributedStringStyle/master/Assets/simple_string_semantic.png)
+
 Once your semantic content is defined, you can use the styler to create a new attributed string with visual attributes.
 
 ```swift
@@ -69,6 +73,10 @@ styler.register(
 
 let visualAttributedString = semanticAttributedString.styled(with: styler)
 ```
+
+This time the result is visual.
+
+![Simple String Visual](https://raw.githubusercontent.com/felginep/AttributedStringStyle/master/Assets/simple_string_visual.png)
 
 ## Author
 
