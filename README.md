@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/AttributedStringStyle.svg?style=flat)](https://cocoapods.org/pods/AttributedStringStyle)
 [![Platform](https://img.shields.io/cocoapods/p/AttributedStringStyle.svg?style=flat)](https://cocoapods.org/pods/AttributedStringStyle)
 
+## Blog post
+
+You can find the associated blog post [here](https://felginep.github.io/2018-11-23/attributed-string-with-style).
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
