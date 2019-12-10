@@ -193,9 +193,11 @@
 				TargetAttributes = {
 					4952C50D21AC1FE000D97680 = {
 						CreatedOnToolsVersion = 10.0;
+						LastSwiftMigration = 1120;
 					};
 					4952C52121AC1FE200D97680 = {
 						CreatedOnToolsVersion = 10.0;
+						LastSwiftMigration = 1120;
 						TestTargetID = 4952C50D21AC1FE000D97680;
 					};
 				};
@@ -499,7 +501,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.felginep.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -518,7 +520,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.felginep.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -538,7 +540,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.felginep.ExampleTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example.app/Example";
 			};
@@ -559,7 +561,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.felginep.ExampleTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example.app/Example";
 			};
