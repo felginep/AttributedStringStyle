@@ -9,7 +9,7 @@ import Foundation
 
 public extension NSAttributedString {
 
-    public func styled<T>(with styler: AttributedStringStyler<T>) -> NSAttributedString {
+    func styled<T>(with styler: AttributedStringStyler<T>) -> NSAttributedString {
         return styler.attributedString(from: self)
     }
 }
