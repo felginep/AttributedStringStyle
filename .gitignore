@@ -35,3 +35,5 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 Example/Pods/
+/.build
+/AttributedStringStyle.xcodeproj

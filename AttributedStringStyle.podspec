@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.social_media_url = 'http://twitter.com/PierreFelgines'
   s.source           = { :git => 'https://github.com/felginep/AttributedStringStyle.git', :tag => "v#{s.version}" }
   s.ios.deployment_target = '9.0'
-  s.source_files = 'Source/**/*'
+  s.source_files = 'Sources/**/*'
   s.framework    = 'Foundation'
 end
