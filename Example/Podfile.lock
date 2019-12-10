@@ -1,5 +1,5 @@
 PODS:
-  - AttributedStringStyle (0.1.0)
+  - AttributedStringStyle (1.0.0)
   - Nimble (7.3.1)
   - Quick (1.3.2)
 
@@ -9,7 +9,7 @@ DEPENDENCIES:
   - Quick (~> 1.2)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Nimble
     - Quick
 
@@ -18,10 +18,10 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AttributedStringStyle: 54fc46519f74dde51940dec366d5ee82aae6e252
+  AttributedStringStyle: edd49f6e107a1320449adb207757e9794b2c0cff
   Nimble: 04f732da099ea4d153122aec8c2a88fd0c7219ae
   Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
 
 PODFILE CHECKSUM: c0c7108080db6260e43d0e35869ab015ebea07cf
 
-COCOAPODS: 1.6.0.beta.1
+COCOAPODS: 1.8.3
