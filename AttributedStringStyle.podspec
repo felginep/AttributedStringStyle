@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AttributedStringStyle'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Focus on the semantic and the visual representation of NSAttributedString separately.'
   s.homepage         = 'https://github.com/felginep/AttributedStringStyle'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
